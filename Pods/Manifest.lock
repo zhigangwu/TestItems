@@ -1,0 +1,63 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - DZNEmptyDataSet (1.8.1)
+  - EAIntroView (2.12.0):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+  - Masonry (1.1.0)
+  - PPNetworkHelper (0.8.1):
+    - AFNetworking (~> 3.2.0)
+    - YYCache (~> 1.0.4)
+  - ReactiveObjC (3.1.0)
+  - YYCache (1.0.4)
+  - ZGPageMenu (0.1.0)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet
+  - EAIntroView
+  - Masonry
+  - PPNetworkHelper
+  - ReactiveObjC
+  - ZGPageMenu
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - DZNEmptyDataSet
+    - EAIntroView
+    - EARestrictedScrollView
+    - Masonry
+    - PPNetworkHelper
+    - ReactiveObjC
+    - YYCache
+  https://github.com/zhigangwu/ZGPageMenuSpec.git:
+    - ZGPageMenu
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  EAIntroView: 249559079ddfdbe80e5bcb755c04c3b964b2ac27
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PPNetworkHelper: e893191a73665e9c496c2887fd5ceece9e930bb8
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  ZGPageMenu: 1135d67b325b9cd23cd5113fcfa5f71b8156d834
+
+PODFILE CHECKSUM: 4efcef16a6056b7fca407b9ccdda6ae88798ecb0
+
+COCOAPODS: 1.7.0.beta.3

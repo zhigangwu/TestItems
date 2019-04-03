@@ -7,8 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1816DA0E2231FA3C00186E28 /* ZGPageMenu_CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA0D2231FA3C00186E28 /* ZGPageMenu_CollectionViewCell.m */; };
+		1816DA122231FE3600186E28 /* Spiderman_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA112231FE3600186E28 /* Spiderman_ViewController.m */; };
+		1816DA152231FE4C00186E28 /* IronMan_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA142231FE4C00186E28 /* IronMan_ViewController.m */; };
+		1816DA182231FE5F00186E28 /* Flash_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA172231FE5F00186E28 /* Flash_ViewController.m */; };
+		1816DA1B2231FE7200186E28 /* Superman_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA1A2231FE7200186E28 /* Superman_ViewController.m */; };
+		1816DA1E2231FE8200186E28 /* Neptune_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA1D2231FE8200186E28 /* Neptune_ViewController.m */; };
+		1816DA212231FE9100186E28 /* WonderWoman_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA202231FE9100186E28 /* WonderWoman_ViewController.m */; };
+		1816DA242231FEA600186E28 /* Hulk_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA232231FEA600186E28 /* Hulk_ViewController.m */; };
+		1816DA272232105A00186E28 /* PageMenuCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA262232105A00186E28 /* PageMenuCollectionView.m */; };
+		1816DA2B2232122D00186E28 /* PageMenuScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816DA2A2232122D00186E28 /* PageMenuScrollView.m */; };
+		1818A11922276C7E00D97BBA /* BannerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1818A11822276C7E00D97BBA /* BannerViewController.m */; };
+		1818A14F2227753800D97BBA /* 悟空.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1818A14E2227753800D97BBA /* 悟空.jpg */; };
+		1818A1512227837A00D97BBA /* 孙悟饭爷爷.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1818A1502227837A00D97BBA /* 孙悟饭爷爷.jpg */; };
+		1818A1532227AEA900D97BBA /* 琪琪.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1818A1522227AEA900D97BBA /* 琪琪.jpeg */; };
+		1818A1552227D4FB00D97BBA /* 悟空小时候.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1818A1542227D4FB00D97BBA /* 悟空小时候.jpg */; };
+		1818A1572227DAF800D97BBA /* 筋斗云.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1818A1562227DAF800D97BBA /* 筋斗云.jpg */; };
+		1818A1612227E90700D97BBA /* 背景2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1818A1602227E90700D97BBA /* 背景2.jpeg */; };
+		1854B6232244B0FA005BE29E /* Asynchronous_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1854B6222244B0FA005BE29E /* Asynchronous_ViewController.m */; };
+		1864C0D32224CACF00874EA0 /* AnimationTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1864C0D22224CACF00874EA0 /* AnimationTableViewController.m */; };
+		1864C0D62224D91C00874EA0 /* GradientDisappears_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1864C0D52224D91C00874EA0 /* GradientDisappears_ViewController.m */; };
+		18B20D4D2228BDCC007C5B27 /* BannerCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B20D4C2228BDCC007C5B27 /* BannerCollectionCell.m */; };
+		18B57C36222F62790048CCD0 /* ZGPageMenu_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B57C35222F62790048CCD0 /* ZGPageMenu_ViewController.m */; };
+		18BE8731222CFCCB00DD8CCE /* CollectionViewCarouselView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18BE8730222CFCCB00DD8CCE /* CollectionViewCarouselView.m */; };
+		18CA28C32226420800764D70 /* CollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CA28C22226420800764D70 /* CollectionViewController.m */; };
+		18DF8AF72223BA3B006ADF18 /* AnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF8AF62223BA3B006ADF18 /* AnimationViewController.m */; };
+		18DF8AFA2223C6F6006ADF18 /* AnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF8AF92223C6F6006ADF18 /* AnimationView.m */; };
+		18DF8AFD2223D146006ADF18 /* AnimationButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF8AFC2223D146006ADF18 /* AnimationButton.m */; };
+		2641338EA48BA800F811F90A /* Pods_TEST.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71ABE322A70EF667A963FE64 /* Pods_TEST.framework */; };
 		91BA214C20FD918D002F109E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 91BA214B20FD918D002F109E /* AppDelegate.m */; };
-		91BA214F20FD918D002F109E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91BA214E20FD918D002F109E /* ViewController.m */; };
 		91BA215220FD918D002F109E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91BA215020FD918D002F109E /* Main.storyboard */; };
 		91BA215420FD9191002F109E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91BA215320FD9191002F109E /* Assets.xcassets */; };
 		91BA215720FD9191002F109E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91BA215520FD9191002F109E /* LaunchScreen.storyboard */; };
@@ -16,16 +43,66 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A538EDCE33FD84F5408A65F /* Pods-TEST.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TEST.release.xcconfig"; path = "Pods/Target Support Files/Pods-TEST/Pods-TEST.release.xcconfig"; sourceTree = "<group>"; };
+		1816DA0C2231FA3C00186E28 /* ZGPageMenu_CollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZGPageMenu_CollectionViewCell.h; sourceTree = "<group>"; };
+		1816DA0D2231FA3C00186E28 /* ZGPageMenu_CollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZGPageMenu_CollectionViewCell.m; sourceTree = "<group>"; };
+		1816DA102231FE3600186E28 /* Spiderman_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Spiderman_ViewController.h; sourceTree = "<group>"; };
+		1816DA112231FE3600186E28 /* Spiderman_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Spiderman_ViewController.m; sourceTree = "<group>"; };
+		1816DA132231FE4C00186E28 /* IronMan_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IronMan_ViewController.h; sourceTree = "<group>"; };
+		1816DA142231FE4C00186E28 /* IronMan_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IronMan_ViewController.m; sourceTree = "<group>"; };
+		1816DA162231FE5F00186E28 /* Flash_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Flash_ViewController.h; sourceTree = "<group>"; };
+		1816DA172231FE5F00186E28 /* Flash_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flash_ViewController.m; sourceTree = "<group>"; };
+		1816DA192231FE7200186E28 /* Superman_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Superman_ViewController.h; sourceTree = "<group>"; };
+		1816DA1A2231FE7200186E28 /* Superman_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Superman_ViewController.m; sourceTree = "<group>"; };
+		1816DA1C2231FE8200186E28 /* Neptune_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Neptune_ViewController.h; sourceTree = "<group>"; };
+		1816DA1D2231FE8200186E28 /* Neptune_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Neptune_ViewController.m; sourceTree = "<group>"; };
+		1816DA1F2231FE9100186E28 /* WonderWoman_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WonderWoman_ViewController.h; sourceTree = "<group>"; };
+		1816DA202231FE9100186E28 /* WonderWoman_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WonderWoman_ViewController.m; sourceTree = "<group>"; };
+		1816DA222231FEA600186E28 /* Hulk_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hulk_ViewController.h; sourceTree = "<group>"; };
+		1816DA232231FEA600186E28 /* Hulk_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hulk_ViewController.m; sourceTree = "<group>"; };
+		1816DA252232105A00186E28 /* PageMenuCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PageMenuCollectionView.h; sourceTree = "<group>"; };
+		1816DA262232105A00186E28 /* PageMenuCollectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PageMenuCollectionView.m; sourceTree = "<group>"; };
+		1816DA292232122D00186E28 /* PageMenuScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PageMenuScrollView.h; sourceTree = "<group>"; };
+		1816DA2A2232122D00186E28 /* PageMenuScrollView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PageMenuScrollView.m; sourceTree = "<group>"; };
+		1818A11722276C7E00D97BBA /* BannerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BannerViewController.h; sourceTree = "<group>"; };
+		1818A11822276C7E00D97BBA /* BannerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BannerViewController.m; sourceTree = "<group>"; };
+		1818A14E2227753800D97BBA /* 悟空.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "悟空.jpg"; sourceTree = "<group>"; };
+		1818A1502227837A00D97BBA /* 孙悟饭爷爷.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "孙悟饭爷爷.jpg"; sourceTree = "<group>"; };
+		1818A1522227AEA900D97BBA /* 琪琪.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "琪琪.jpeg"; sourceTree = "<group>"; };
+		1818A1542227D4FB00D97BBA /* 悟空小时候.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "悟空小时候.jpg"; sourceTree = "<group>"; };
+		1818A1562227DAF800D97BBA /* 筋斗云.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "筋斗云.jpg"; sourceTree = "<group>"; };
+		1818A1602227E90700D97BBA /* 背景2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "背景2.jpeg"; sourceTree = "<group>"; };
+		184F34662236480E005497A9 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		1854B6212244B0FA005BE29E /* Asynchronous_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Asynchronous_ViewController.h; sourceTree = "<group>"; };
+		1854B6222244B0FA005BE29E /* Asynchronous_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Asynchronous_ViewController.m; sourceTree = "<group>"; };
+		1864C0D12224CACF00874EA0 /* AnimationTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationTableViewController.h; sourceTree = "<group>"; };
+		1864C0D22224CACF00874EA0 /* AnimationTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationTableViewController.m; sourceTree = "<group>"; };
+		1864C0D42224D91C00874EA0 /* GradientDisappears_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GradientDisappears_ViewController.h; sourceTree = "<group>"; };
+		1864C0D52224D91C00874EA0 /* GradientDisappears_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GradientDisappears_ViewController.m; sourceTree = "<group>"; };
+		18B20D4B2228BDCC007C5B27 /* BannerCollectionCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BannerCollectionCell.h; sourceTree = "<group>"; };
+		18B20D4C2228BDCC007C5B27 /* BannerCollectionCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BannerCollectionCell.m; sourceTree = "<group>"; };
+		18B57C34222F62790048CCD0 /* ZGPageMenu_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZGPageMenu_ViewController.h; sourceTree = "<group>"; };
+		18B57C35222F62790048CCD0 /* ZGPageMenu_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZGPageMenu_ViewController.m; sourceTree = "<group>"; };
+		18BE872F222CFCCB00DD8CCE /* CollectionViewCarouselView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CollectionViewCarouselView.h; sourceTree = "<group>"; };
+		18BE8730222CFCCB00DD8CCE /* CollectionViewCarouselView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCarouselView.m; sourceTree = "<group>"; };
+		18CA28C12226420800764D70 /* CollectionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CollectionViewController.h; sourceTree = "<group>"; };
+		18CA28C22226420800764D70 /* CollectionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewController.m; sourceTree = "<group>"; };
+		18DF8AF52223BA3B006ADF18 /* AnimationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationViewController.h; sourceTree = "<group>"; };
+		18DF8AF62223BA3B006ADF18 /* AnimationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationViewController.m; sourceTree = "<group>"; };
+		18DF8AF82223C6F6006ADF18 /* AnimationView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationView.h; sourceTree = "<group>"; };
+		18DF8AF92223C6F6006ADF18 /* AnimationView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationView.m; sourceTree = "<group>"; };
+		18DF8AFB2223D146006ADF18 /* AnimationButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationButton.h; sourceTree = "<group>"; };
+		18DF8AFC2223D146006ADF18 /* AnimationButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationButton.m; sourceTree = "<group>"; };
+		71ABE322A70EF667A963FE64 /* Pods_TEST.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TEST.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		91BA214720FD918D002F109E /* TEST.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91BA214A20FD918D002F109E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		91BA214B20FD918D002F109E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		91BA214D20FD918D002F109E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		91BA214E20FD918D002F109E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		91BA215120FD918D002F109E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		91BA215320FD9191002F109E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91BA215620FD9191002F109E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		91BA215820FD9191002F109E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		91BA215920FD9191002F109E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D12B39EBB760126699841378 /* Pods-TEST.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TEST.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TEST/Pods-TEST.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,17 +110,117 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2641338EA48BA800F811F90A /* Pods_TEST.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1816DA0F2231FE1600186E28 /* NewController */ = {
+			isa = PBXGroup;
+			children = (
+				1816DA102231FE3600186E28 /* Spiderman_ViewController.h */,
+				1816DA112231FE3600186E28 /* Spiderman_ViewController.m */,
+				1816DA132231FE4C00186E28 /* IronMan_ViewController.h */,
+				1816DA142231FE4C00186E28 /* IronMan_ViewController.m */,
+				1816DA162231FE5F00186E28 /* Flash_ViewController.h */,
+				1816DA172231FE5F00186E28 /* Flash_ViewController.m */,
+				1816DA192231FE7200186E28 /* Superman_ViewController.h */,
+				1816DA1A2231FE7200186E28 /* Superman_ViewController.m */,
+				1816DA1C2231FE8200186E28 /* Neptune_ViewController.h */,
+				1816DA1D2231FE8200186E28 /* Neptune_ViewController.m */,
+				1816DA1F2231FE9100186E28 /* WonderWoman_ViewController.h */,
+				1816DA202231FE9100186E28 /* WonderWoman_ViewController.m */,
+				1816DA222231FEA600186E28 /* Hulk_ViewController.h */,
+				1816DA232231FEA600186E28 /* Hulk_ViewController.m */,
+			);
+			path = NewController;
+			sourceTree = "<group>";
+		};
+		1816DA282232106000186E28 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				1816DA252232105A00186E28 /* PageMenuCollectionView.h */,
+				1816DA262232105A00186E28 /* PageMenuCollectionView.m */,
+				1816DA292232122D00186E28 /* PageMenuScrollView.h */,
+				1816DA2A2232122D00186E28 /* PageMenuScrollView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1818A14D2227753800D97BBA /* 七龙珠图鉴 */ = {
+			isa = PBXGroup;
+			children = (
+				1818A1602227E90700D97BBA /* 背景2.jpeg */,
+				1818A1562227DAF800D97BBA /* 筋斗云.jpg */,
+				1818A14E2227753800D97BBA /* 悟空.jpg */,
+				1818A1542227D4FB00D97BBA /* 悟空小时候.jpg */,
+				1818A1502227837A00D97BBA /* 孙悟饭爷爷.jpg */,
+				1818A1522227AEA900D97BBA /* 琪琪.jpeg */,
+			);
+			path = "七龙珠图鉴";
+			sourceTree = SOURCE_ROOT;
+		};
+		1854B6202244B0D5005BE29E /* Asynchronous */ = {
+			isa = PBXGroup;
+			children = (
+				1854B6212244B0FA005BE29E /* Asynchronous_ViewController.h */,
+				1854B6222244B0FA005BE29E /* Asynchronous_ViewController.m */,
+			);
+			path = Asynchronous;
+			sourceTree = "<group>";
+		};
+		18B57C33222F62350048CCD0 /* PageMenu */ = {
+			isa = PBXGroup;
+			children = (
+				1816DA282232106000186E28 /* View */,
+				1816DA0C2231FA3C00186E28 /* ZGPageMenu_CollectionViewCell.h */,
+				1816DA0D2231FA3C00186E28 /* ZGPageMenu_CollectionViewCell.m */,
+				18B57C34222F62790048CCD0 /* ZGPageMenu_ViewController.h */,
+				18B57C35222F62790048CCD0 /* ZGPageMenu_ViewController.m */,
+				1816DA0F2231FE1600186E28 /* NewController */,
+			);
+			path = PageMenu;
+			sourceTree = "<group>";
+		};
+		18CA28C42226421900764D70 /* Collection */ = {
+			isa = PBXGroup;
+			children = (
+				18BE872F222CFCCB00DD8CCE /* CollectionViewCarouselView.h */,
+				18BE8730222CFCCB00DD8CCE /* CollectionViewCarouselView.m */,
+				18CA28C12226420800764D70 /* CollectionViewController.h */,
+				18CA28C22226420800764D70 /* CollectionViewController.m */,
+				18B20D4B2228BDCC007C5B27 /* BannerCollectionCell.h */,
+				18B20D4C2228BDCC007C5B27 /* BannerCollectionCell.m */,
+			);
+			path = Collection;
+			sourceTree = "<group>";
+		};
+		5C63F613339F48E38B5BC502 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				71ABE322A70EF667A963FE64 /* Pods_TEST.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6AC404DC322D3B5D5BBEFD7C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D12B39EBB760126699841378 /* Pods-TEST.debug.xcconfig */,
+				0A538EDCE33FD84F5408A65F /* Pods-TEST.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		91BA213E20FD918D002F109E = {
 			isa = PBXGroup;
 			children = (
 				91BA214920FD918D002F109E /* TEST */,
 				91BA214820FD918D002F109E /* Products */,
+				6AC404DC322D3B5D5BBEFD7C /* Pods */,
+				5C63F613339F48E38B5BC502 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,13 +237,28 @@
 			children = (
 				91BA214A20FD918D002F109E /* AppDelegate.h */,
 				91BA214B20FD918D002F109E /* AppDelegate.m */,
-				91BA214D20FD918D002F109E /* ViewController.h */,
-				91BA214E20FD918D002F109E /* ViewController.m */,
+				1864C0D12224CACF00874EA0 /* AnimationTableViewController.h */,
+				1864C0D22224CACF00874EA0 /* AnimationTableViewController.m */,
+				18DF8AF82223C6F6006ADF18 /* AnimationView.h */,
+				18DF8AF92223C6F6006ADF18 /* AnimationView.m */,
+				18DF8AFB2223D146006ADF18 /* AnimationButton.h */,
+				18DF8AFC2223D146006ADF18 /* AnimationButton.m */,
+				18DF8AF52223BA3B006ADF18 /* AnimationViewController.h */,
+				18DF8AF62223BA3B006ADF18 /* AnimationViewController.m */,
+				1864C0D42224D91C00874EA0 /* GradientDisappears_ViewController.h */,
+				1864C0D52224D91C00874EA0 /* GradientDisappears_ViewController.m */,
+				1818A11722276C7E00D97BBA /* BannerViewController.h */,
+				1818A11822276C7E00D97BBA /* BannerViewController.m */,
+				18CA28C42226421900764D70 /* Collection */,
+				18B57C33222F62350048CCD0 /* PageMenu */,
+				1854B6202244B0D5005BE29E /* Asynchronous */,
 				91BA215020FD918D002F109E /* Main.storyboard */,
 				91BA215320FD9191002F109E /* Assets.xcassets */,
+				1818A14D2227753800D97BBA /* 七龙珠图鉴 */,
 				91BA215520FD9191002F109E /* LaunchScreen.storyboard */,
 				91BA215820FD9191002F109E /* Info.plist */,
 				91BA215920FD9191002F109E /* main.m */,
+				184F34662236480E005497A9 /* Header.h */,
 			);
 			path = TEST;
 			sourceTree = "<group>";
@@ -78,9 +270,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 91BA215D20FD9191002F109E /* Build configuration list for PBXNativeTarget "TEST" */;
 			buildPhases = (
+				DDE805B65B7FEA3A117BB1F5 /* [CP] Check Pods Manifest.lock */,
 				91BA214320FD918D002F109E /* Sources */,
 				91BA214420FD918D002F109E /* Frameworks */,
 				91BA214520FD918D002F109E /* Resources */,
+				920EB4875A84917ACAE1C44B /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -129,20 +323,84 @@
 			buildActionMask = 2147483647;
 			files = (
 				91BA215720FD9191002F109E /* LaunchScreen.storyboard in Resources */,
+				1818A1612227E90700D97BBA /* 背景2.jpeg in Resources */,
+				1818A1572227DAF800D97BBA /* 筋斗云.jpg in Resources */,
 				91BA215420FD9191002F109E /* Assets.xcassets in Resources */,
+				1818A14F2227753800D97BBA /* 悟空.jpg in Resources */,
+				1818A1532227AEA900D97BBA /* 琪琪.jpeg in Resources */,
+				1818A1552227D4FB00D97BBA /* 悟空小时候.jpg in Resources */,
+				1818A1512227837A00D97BBA /* 孙悟饭爷爷.jpg in Resources */,
 				91BA215220FD918D002F109E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		920EB4875A84917ACAE1C44B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TEST/Pods-TEST-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TEST/Pods-TEST-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TEST/Pods-TEST-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DDE805B65B7FEA3A117BB1F5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TEST-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		91BA214320FD918D002F109E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91BA214F20FD918D002F109E /* ViewController.m in Sources */,
+				1816DA152231FE4C00186E28 /* IronMan_ViewController.m in Sources */,
+				18CA28C32226420800764D70 /* CollectionViewController.m in Sources */,
+				1854B6232244B0FA005BE29E /* Asynchronous_ViewController.m in Sources */,
+				1816DA272232105A00186E28 /* PageMenuCollectionView.m in Sources */,
+				18BE8731222CFCCB00DD8CCE /* CollectionViewCarouselView.m in Sources */,
+				18DF8AFD2223D146006ADF18 /* AnimationButton.m in Sources */,
+				1864C0D62224D91C00874EA0 /* GradientDisappears_ViewController.m in Sources */,
+				18DF8AF72223BA3B006ADF18 /* AnimationViewController.m in Sources */,
+				18DF8AFA2223C6F6006ADF18 /* AnimationView.m in Sources */,
+				18B20D4D2228BDCC007C5B27 /* BannerCollectionCell.m in Sources */,
+				18B57C36222F62790048CCD0 /* ZGPageMenu_ViewController.m in Sources */,
+				1818A11922276C7E00D97BBA /* BannerViewController.m in Sources */,
+				1816DA0E2231FA3C00186E28 /* ZGPageMenu_CollectionViewCell.m in Sources */,
+				1816DA1B2231FE7200186E28 /* Superman_ViewController.m in Sources */,
+				1816DA1E2231FE8200186E28 /* Neptune_ViewController.m in Sources */,
+				1816DA122231FE3600186E28 /* Spiderman_ViewController.m in Sources */,
+				1816DA2B2232122D00186E28 /* PageMenuScrollView.m in Sources */,
+				1816DA242231FEA600186E28 /* Hulk_ViewController.m in Sources */,
 				91BA215A20FD9191002F109E /* main.m in Sources */,
+				1816DA182231FE5F00186E28 /* Flash_ViewController.m in Sources */,
+				1864C0D32224CACF00874EA0 /* AnimationTableViewController.m in Sources */,
+				1816DA212231FE9100186E28 /* WonderWoman_ViewController.m in Sources */,
 				91BA214C20FD918D002F109E /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -281,10 +539,12 @@
 		};
 		91BA215E20FD9191002F109E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D12B39EBB760126699841378 /* Pods-TEST.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L7B275JG2T;
+				GCC_PREFIX_HEADER = /Users/apple/Downloads/TEST/TEST/Header.h;
 				INFOPLIST_FILE = TEST/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -298,10 +558,12 @@
 		};
 		91BA215F20FD9191002F109E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0A538EDCE33FD84F5408A65F /* Pods-TEST.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L7B275JG2T;
+				GCC_PREFIX_HEADER = /Users/apple/Downloads/TEST/TEST/Header.h;
 				INFOPLIST_FILE = TEST/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import "AnimationViewController.h"
+#import "AnimationTableViewController.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +19,13 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    self.window.backgroundColor = [UIColor whiteColor];
+//    ViewController *vc = [[ViewController alloc] init];
+//    AnimationViewController *animation = [[AnimationViewController alloc] init];
+    AnimationTableViewController *animation = [[AnimationTableViewController alloc] init];
+    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:animation];
+    self.window.rootViewController = nav;
     return YES;
 }
 
